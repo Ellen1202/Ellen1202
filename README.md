@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen1202&layout=donut&show_icons=true&theme=onedark&hide_border=true&bg_color=20232a&icon_color=ffc0d0&text_color=fff&title_color=ffc0d0&count_private=true&exclude_repo=Study_Unity" width=38% />
-</a>    
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Ellen1202&show_icons=true&theme=onedark&hide_border=true&bg_color=20232a&icon_color=ffc0d0&text_color=fff&title_color=ffc0d0&count_private=true" width=56% />
 </a>
